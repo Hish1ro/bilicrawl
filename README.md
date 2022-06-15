@@ -1,2 +1,2 @@
 # bilicrawl
-bilibili vedio and up info crawler
+crawler for bilibili video and up info
